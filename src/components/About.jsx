@@ -4,6 +4,8 @@ import {useEffect , useState} from 'react'
 
 const About=({setAbout , ind })=>{
 
+window.scrollTo(0,0)	
+
 const [languages , setLanguages] = useState()
 const [currencies , setCurrencies] = useState()
 const [borders , setBorders] = useState([])
