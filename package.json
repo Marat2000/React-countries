@@ -1,6 +1,6 @@
 {
-	"homepage": "https://Marat.2000.github.io/countries",
-	"name": "countries",
+	"homepage": "https://Marat.2000.github.io/react-countries",
+	"name": "react-countries",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
@@ -38,5 +38,8 @@
 			"last 1 firefox version",
 			"last 1 safari version"
 		]
+	},
+	"devDependencies": {
+		"gh-pages": "^5.0.0"
 	}
 }
