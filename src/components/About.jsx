@@ -65,7 +65,7 @@ setId(data.find(e=> e.name == n ).id)
 			<p className='info'><b>Population:</b><span>{data[id].population.toLocaleString('en-US')}</span></p>
 			<p className='info'><b>Region:</b><span>{data[id].region}</span></p>
 			<p className='info'><b>Sub Region:</b><span>{data[id].subregion}</span></p>
-			<p className='info'><b>Capital:</b><span>{data[id].subregion}</span></p>
+			<p className='info'><b>Capital:</b><span>{data[id].capital}</span></p>
 			</div>
 
 			<div className='col2'>
